@@ -9,3 +9,14 @@ C:\Users\User\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.Gener
 C:\Users\User\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
 C:\Users\User\Desktop\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Github\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Github\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Github\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.FormMain.resources
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.FormSetting.resources
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Github\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
